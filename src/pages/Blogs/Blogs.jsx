@@ -42,7 +42,7 @@ const Blogs = () => {
         />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/blogs_og_ebduz_SZN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652253962"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320198/blogs_urxyv0.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652253962"
         />
         <meta property="twitter:title" content="Yashodip's Blogs" />
         <meta
@@ -51,7 +51,7 @@ const Blogs = () => {
         />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/blogs_og_ebduz_SZN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652253962"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320198/blogs_urxyv0.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652253962"
         />
       </Helmet>
       <AllBlogs
