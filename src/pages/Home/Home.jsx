@@ -36,16 +36,16 @@ const Home = () => {
         />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/its_rakesh_5zlx0DELg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255362"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255362"
         />
-        <meta property="twitter:title" content="Rakesh Potnuru" />
+        <meta property="twitter:title" content="Yashodip Beldar" />
         <meta
           property="twitter:description"
           content="Hi! I'm Rakesh - a web developer, technical writer and a passionate learner. I love participating in hackathons, contributing to open source projects and find pleasure in helping folks around me."
         />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/its_rakesh_5zlx0DELg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255362"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255362"
         />
       </Helmet>
       <Hero />

@@ -11,13 +11,13 @@ const Events = () => {
         <meta property="og:description" content="Events I've conducted." />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/events_og_K30kmn2bj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675524574559"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729319938/event_hyua5o.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675524574559"
         />
         <meta property="twitter:title" content="Rakesh Potnuru" />
         <meta property="twitter:description" content="Events I've conducted." />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/events_og_K30kmn2bj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675524574559"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729319938/event_hyua5o.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675524574559"
         />
       </Helmet>
       <div>

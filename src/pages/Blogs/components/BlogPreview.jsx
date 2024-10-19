@@ -41,7 +41,7 @@ const BlogPreview = (props) => {
           <h6 className="mt-2">Read this blog on your favourite platform:</h6>
           <div className="blog-preview__details__links__extra">
             <a
-              href="https://medium.com/@itsrakesh"
+              href="https://medium.com/@yashbeldar"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -104,7 +104,7 @@ const CTA = () => {
           <hr />
           <Collapse in={open}>
             <div id="collapse-text">
-              <ul>
+              <ul>  
                 <li>Internship</li>
                 <li>Part-time</li>
                 <li>Contract</li>
