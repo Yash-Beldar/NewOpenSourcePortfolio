@@ -30,19 +30,19 @@ const AllProjects = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>Projects | itsrakesh</title>
+        <title>Projects | Yashodip Beldar</title>
         <meta name="description" content="See my projects" />
-        <meta property="og:title" content="Rakesh's Projects" />
+        <meta property="og:title" content="Yashodip's Projects" />
         <meta property="og:description" content="See my projects" />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/projects__og_fLEcj2Dqve4O.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729499482/project_qkdsmy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
         />
         <meta property="twitter:title" content="Rakesh's Projects" />
         <meta property="twitter:description" content="See my projects" />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/projects__og_fLEcj2Dqve4O.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729499482/project_qkdsmy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
         />
       </Helmet>
       <ErrorModal

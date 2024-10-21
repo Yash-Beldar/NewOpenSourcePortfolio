@@ -52,8 +52,8 @@ const ProfileRedirect = () => {
           property="og:image"
           content={
             profileLink
-              ? 'https://ik.imagekit.io/itsrakesh/Portfolio/profiles__og_8pHrPNnPsNUr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644159089673'
-              : 'https://ik.imagekit.io/itsrakesh/Portfolio/404__og_5VtpVJDVMx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644160421004'
+              ? 'https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644159089673'
+              : 'https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644160421004'
           }
         />
         <meta
@@ -70,8 +70,8 @@ const ProfileRedirect = () => {
           property="twitter:image"
           content={
             profileLink
-              ? 'https://ik.imagekit.io/itsrakesh/Portfolio/profiles__og_8pHrPNnPsNUr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644159089673'
-              : 'https://ik.imagekit.io/itsrakesh/Portfolio/404__og_5VtpVJDVMx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644160421004'
+              ? 'https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644159089673'
+              : 'https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644160421004'
           }
         />
       </Helmet>

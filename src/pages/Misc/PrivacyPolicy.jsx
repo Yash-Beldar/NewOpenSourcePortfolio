@@ -7,13 +7,13 @@ const PrivacyPolicy = () => {
   return (
     <Fragment>
       <Container>
-        <h1>Privacy Policy for Its Rakesh</h1>
+        <h1>Privacy Policy for Its Yashodip Beldar Portfolio</h1>
 
         <p>
-          At Its Rakesh, accessible from https://itsrakesh.com, one of our main
+          At Its Yashodip, accessible from https://yashodipbeldar.engineer, one of our main
           priorities is the privacy of our visitors. This Privacy Policy
           document contains types of information that is collected and recorded
-          by Its Rakesh and how we use it.
+          by Its Yashodip and how we use it.
         </p>
 
         <p>
@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
         <p>
           This Privacy Policy applies only to our online activities and is valid
           for visitors to our website with regards to the information that they
-          shared and/or collect in Its Rakesh. This policy is not applicable to
+          shared and/or collect in Its Yashodip. This policy is not applicable to
           any information collected offline or via channels other than this
           website. Our Privacy Policy was created with the help of the{' '}
           <a href="https://www.privacypolicygenerator.info">
@@ -81,7 +81,7 @@ const PrivacyPolicy = () => {
         <h2>Log Files</h2>
 
         <p>
-          Its Rakesh follows a standard procedure of using log files. These
+          Its Yashodip follows a standard procedure of using log files. These
           files log visitors when they visit websites. All hosting companies do
           this and a part of hosting services' analytics. The information
           collected by log files include internet protocol (IP) addresses,
@@ -96,7 +96,7 @@ const PrivacyPolicy = () => {
         <h2>Cookies and Web Beacons</h2>
 
         <p>
-          Like any other website, Its Rakesh uses 'cookies'. These cookies are
+          Like any other website, Its Yashodip uses 'cookies'. These cookies are
           used to store information including visitors' preferences, and the
           pages on the website that the visitor accessed or visited. The
           information is used to optimize the users' experience by customizing
@@ -116,13 +116,13 @@ const PrivacyPolicy = () => {
 
         <p>
           You may consult this list to find the Privacy Policy for each of the
-          advertising partners of Its Rakesh.
+          advertising partners of Its Yashodip.
         </p>
 
         <p>
           Third-party ad servers or ad networks uses technologies like cookies,
           JavaScript, or Web Beacons that are used in their respective
-          advertisements and links that appear on Its Rakesh, which are sent
+          advertisements and links that appear on Its Yashodip, which are sent
           directly to users' browser. They automatically receive your IP address
           when this occurs. These technologies are used to measure the
           effectiveness of their advertising campaigns and/or to personalize the
@@ -130,14 +130,14 @@ const PrivacyPolicy = () => {
         </p>
 
         <p>
-          Note that Its Rakesh has no access to or control over these cookies
+          Note that Its Yashodip has no access to or control over these cookies
           that are used by third-party advertisers.
         </p>
 
         <h2>Third Party Privacy Policies</h2>
 
         <p>
-          Its Rakesh's Privacy Policy does not apply to other advertisers or
+          Its Yashodip's Privacy Policy does not apply to other advertisers or
           websites. Thus, we are advising you to consult the respective Privacy
           Policies of these third-party ad servers for more detailed
           information. It may include their practices and instructions about how
@@ -223,7 +223,7 @@ const PrivacyPolicy = () => {
         </p>
 
         <p>
-          Its Rakesh does not knowingly collect any Personal Identifiable
+          Its Yashodip does not knowingly collect any Personal Identifiable
           Information from children under the age of 13. If you think that your
           child provided this kind of information on our website, we strongly
           encourage you to contact us immediately and we will do our best

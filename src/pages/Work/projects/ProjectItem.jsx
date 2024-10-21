@@ -25,7 +25,7 @@ const ProjectItem = () => {
     setIsLoading(true);
     try {
       const data = await axios.get(
-        `https://raw.githubusercontent.com/RakeshPotnuru/${repoName}/${
+        `https://raw.githubusercontent.com/Mr-Yash-beldar/${repoName}/${
           'master' || 'main'
         }/README.md`
       );
@@ -44,7 +44,7 @@ const ProjectItem = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>{repoName} | itsrakesh</title>
+        <title>{repoName} | Yashodip Beldar</title>
         <meta name="description" content={`See my ${repoName} project`} />
         <meta property="og:title" content={repoName} />
         <meta
@@ -53,7 +53,7 @@ const ProjectItem = () => {
         />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/projects__og_r2hbQSeQy0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644157173960"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729499482/project_qkdsmy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644157173960"
         />
         <meta property="twitter:title" content={repoName} />
         <meta
@@ -62,7 +62,7 @@ const ProjectItem = () => {
         />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/projects__og_r2hbQSeQy0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644157173960"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729499482/project_qkdsmy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644157173960"
         />
       </Helmet>
       <ErrorModal
@@ -81,7 +81,7 @@ const ProjectItem = () => {
             <span style={{ color: 'red' }}>*</span> This page is the README file
             of{' '}
             <a
-              href={`https://github.com/RakeshPotnuru/${repoName}`}
+              href={`https://github.com/Mr-Yash-beldar/${repoName}`}
               target="_blank"
               rel="noopener noreferrer"
             >
