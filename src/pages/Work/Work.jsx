@@ -37,7 +37,7 @@ const Work = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>Work | Yashodip Beldar</title>
+        <title>Work | Yashodip Beldar </title>
         <meta name="description" content="Get to know what I do." />
         <meta property="og:title" content="Yashodip Beldar's Work" />
         <meta property="og:description" content="Get to know what I do." />
