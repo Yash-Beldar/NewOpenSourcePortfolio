@@ -48,17 +48,13 @@ const techData = [
     imageUrl: prefix + 'heroku/heroku-plain.svg'
   },
   {
-    techName: 'FIREBASE',
-    imageUrl: prefix + 'firebase/firebase-plain.svg'
-  },
-  {
     techName: 'JQUERY',
     imageUrl: prefix + 'jquery/jquery-original.svg'
   },
-  // {
-  //   techName: 'MYSQL',
-  //   imageUrl: prefix + 'mysql/mysql-original.svg'
-  // },
+  {
+    techName: 'MYSQL',
+    imageUrl: prefix + 'mysql/mysql-original.svg'
+  },
   {
     techName: 'BOOTSTRAP',
     imageUrl: prefix + 'bootstrap/bootstrap-original.svg'
@@ -75,10 +71,6 @@ const techData = [
   {
     techName: 'CSS',
     imageUrl: prefix + 'css3/css3-original.svg'
-  },
-  {
-    techName: 'SASS',
-    imageUrl: prefix + 'sass/sass-original.svg'
   }
 ];
 

@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <React.Fragment>
       <Helmet>
-        <title>Contact | itsrakesh</title>
+        <title>Contact | Yashodip Beldar</title>
         <meta
           name="description"
           content="Leave a message or schedule a google meet."
@@ -20,7 +20,7 @@ const Contact = () => {
         />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/contact_og_kQt7MdqAH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254157"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320599/about_re6hkd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254157"
         />
         <meta property="twitter:title" content="Get in touch with Rakesh" />
         <meta
@@ -29,7 +29,7 @@ const Contact = () => {
         />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/contact_og_kQt7MdqAH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254157"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320599/about_re6hkd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254157"
         />
       </Helmet>
       <ContactForm />
