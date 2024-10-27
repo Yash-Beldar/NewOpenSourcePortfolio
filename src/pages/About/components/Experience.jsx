@@ -47,13 +47,20 @@ const Experience = () => {
               company="R3SYS PVT. LTD."
               institutionImgUrl="https://example.com/r3sys-logo.jpg" // Add the correct image URL for R3SYS
               type="Internship"
-              position="Java Developer Intern" 
+              position="Java Developer Intern"
               startDate="May 2024"
               endDate="June 2024"
             />
             {/* <div className="line"></div> */}
+          </div>
+        </div>
+      </Container>
 
-            {/* Education Section */}
+      {/* Education Section */}
+      <Container>
+        <div className="experience">
+          <h2>Education</h2>
+          <div className="experience__content">
             <ExperienceItem
               company="R C Patel Institute of Technology, Shirpur"
               institutionImgUrl="https://example.com/sss-logo.jpg" // Replace with an appropriate logo
