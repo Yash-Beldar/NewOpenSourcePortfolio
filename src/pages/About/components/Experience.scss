@@ -8,6 +8,15 @@
     color: lighten($color-primary-5, 30%);
   }
 
+  .grade {
+    margin: 0.15rem 0.5rem;
+    border-radius: 0.5rem;
+    border: 2px solid darken(#d3d6f060, 30%);
+    background-color: #c60505;
+    text-align: center;
+  }
+  
+
   .line {
     border-left: 6px solid $color-primary-5;
     height: 70px;
@@ -51,7 +60,8 @@
             border-radius: 50%;
           }
         }
+        }
       }
     }
-  }
+  
 }
