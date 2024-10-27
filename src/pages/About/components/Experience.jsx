@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Stack } from 'react-bootstrap';
 // import { EducationItem } from '../../../common/components/UIElements';
 import { Company } from '../../../assets/images';
+import { FaCheck } from 'react-icons/fa';
 import './Experience.scss';
 
 const ExperienceItem = (props) => {
@@ -26,6 +27,12 @@ const ExperienceItem = (props) => {
             />{' '}
             {props.type}
           </span>
+          {props.grade && ( // Conditional rendering for grade
+            <span className="grade">
+              <FaCheck className="check-icon" /> {props.grade}
+            </span>
+          )}
+
           <p>
             {props.startDate} - {props.endDate}
           </p>
