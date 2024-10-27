@@ -25,13 +25,13 @@ const Profiles = () => {
         <meta property="og:description" content="Find me on internet." />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/profiles__og_PSyYregug.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
         />
         <meta property="twitter:title" content="Yashodip's Profiles" />
         <meta property="twitter:description" content="Find me on internet." />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/profiles__og_PSyYregug.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652254785"
         />
       </Helmet>
       <div id="profiles">
@@ -39,11 +39,11 @@ const Profiles = () => {
           <div className="profiles">
             <h1>My Profiles</h1>
             <h6>You can find me on the internet with url:</h6>
-            <p>https://itsrakesh.com/profiles/&lt;websitename&gt;</p>
+            <p>https://yashodipbeldar.engineer/profiles/&lt;websitename&gt;</p>
             <p>
               For example:{' '}
               <Link to="/profiles/stackoverflow">
-                https://itsrakesh.com/profiles/stackoverflow
+                https://yashodipbeldar.engineer/profiles/stackoverflow
               </Link>
             </p>
             <div className="profiles__container">

@@ -42,7 +42,7 @@ const Experience = () => {
         <div className="experience">
           <h2>Experience</h2>
           <div className="experience__content">
-            <ExperienceItem
+            {/* <ExperienceItem
               company="Truffles"
               companyImgUrl="https://pbs.twimg.com/profile_images/1670836117849948162/JaaNbWaw_400x400.jpg"
               type="Full Time"
@@ -130,7 +130,7 @@ const Experience = () => {
               type="Volunteering"
               startDate="Mar 2022"
               endDate="Oct 2022"
-            />
+            /> */}
           </div>
         </div>
       </Container>

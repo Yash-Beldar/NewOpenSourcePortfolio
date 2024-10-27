@@ -29,7 +29,7 @@ const Home = () => {
           name="description"
           content="Hi! I'm Yashodip Beldar - a web developer, technical writer and a passionate learner. I love participating in hackathons, contributing to open source projects and find pleasure in helping folks around me."
         />
-        <meta property="og:title" content="Rakesh Potnuru" />
+        <meta property="og:title" content="Yashodip Beldar" />
         <meta
           property="og:description"
           content="Hi! I'm Yashodip - a web developer, technical writer and a passionate learner. I love participating in hackathons, contributing to open source projects and find pleasure in helping folks around me."

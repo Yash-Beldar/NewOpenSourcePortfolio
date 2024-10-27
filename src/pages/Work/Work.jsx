@@ -37,19 +37,19 @@ const Work = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>Work | itsrakesh</title>
+        <title>Work | Yashodip Beldar </title>
         <meta name="description" content="Get to know what I do." />
-        <meta property="og:title" content="Rakesh Potnuru's Work" />
+        <meta property="og:title" content="Yashodip Beldar's Work" />
         <meta property="og:description" content="Get to know what I do." />
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/work_og_cli-eLMr5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255031"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255031"
         />
         <meta property="twitter:title" content="Rakesh Potnuru's Work" />
         <meta property="twitter:description" content="Get to know what I do." />
         <meta
           property="twitter:image"
-          content="https://ik.imagekit.io/itsrakesh/Portfolio/work_og_cli-eLMr5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255031"
+          content="https://res.cloudinary.com/dc6lcsahh/image/upload/v1729320945/portfolio_eg0iup.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646652255031"
         />
       </Helmet>
       <Projects
