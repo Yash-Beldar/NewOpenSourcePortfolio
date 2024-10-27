@@ -44,41 +44,46 @@ const Experience = () => {
           <div className="experience__content">
             {/* Experience Section */}
             <ExperienceItem
-              company="R3SYS"
-              companyImgUrl="https://example.com/r3sys-logo.jpg" // Add the correct image URL for R3SYS
-              type="Full Time"
-              position="Software Engineer"
-              startDate="August 2024"
-              endDate="Present"
+              company="R3SYS PVT. LTD."
+              institutionImgUrl="https://example.com/r3sys-logo.jpg" // Add the correct image URL for R3SYS
+              type="Internship"
+              position="Java Developer Intern" 
+              startDate="May 2024"
+              endDate="June 2024"
             />
             {/* <div className="line"></div> */}
 
             {/* Education Section */}
             <ExperienceItem
-              institution="School for Secondary Studies (SSC)"
+              company="R C Patel Institute of Technology, Shirpur"
               institutionImgUrl="https://example.com/sss-logo.jpg" // Replace with an appropriate logo
-              degree="10th Grade"
-              startDate="March 2018"
-              endDate="March 2019"
-            />
-            <div className="line"></div>
-            <ExperienceItem
-              institution="Higher Secondary School (HSC)"
-              institutionImgUrl="https://example.com/hsc-logo.jpg" // Replace with an appropriate logo
-              degree="12th Grade"
-              startDate="March 2020"
-              endDate="March 2021"
-            />
-            <div className="line"></div>
-            <ExperienceItem
-              institution="University Name"
-              institutionImgUrl="https://example.com/university-logo.jpg" // Replace with an appropriate logo
-              degree="Bachelor of Technology (B.Tech)"
-              field="Computer Science"
-              startDate="August 2021"
+              type="Bachelor of Technology (B.Tech)"
+              position="Computer Engineering"
+              grade="CGPA: 7.66 (Upto 6th Sem)"
+              startDate="Nov 2021"
               endDate="Present"
             />
             <div className="line"></div>
+            <ExperienceItem
+              company="A S C College, Chopda"
+              institutionImgUrl="https://example.com/hsc-logo.jpg" // Replace with an appropriate logo
+              type="HSC"
+              position="Science"
+              grade="84.33 %"
+              startDate="June 2020"
+              endDate="July 2021"
+            />
+            <div className="line"></div>
+            <ExperienceItem
+              company="Vidya Bharati Vidyalay, Virwade"
+              institutionImgUrl="https://example.com/university-logo.jpg" // Replace with an appropriate logo
+              type="SSC"
+              grade="81.40 %"
+              position="General"
+              startDate="June 2018"
+              endDate="June 2019"
+            />
+            {/* <div className="line"></div> */}
             {/*
             <div className="line"></div>
             <ExperienceItem
