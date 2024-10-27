@@ -44,14 +44,31 @@ const Experience = () => {
           <div className="experience__content">
             {/* Experience Section */}
             <ExperienceItem
+              company="Akatsuki Coding Club"
+              companyImgUrl="https://pbs.twimg.com/profile_images/1425284890799460354/phO6uvw5_400x400.jpg"
+              type="Volunteering"
+              position="Core Team Member"
+              startDate="Oct 2023"
+              endDate="Present"
+            />
+            <div className="line"></div>
+            <ExperienceItem
               company="R3SYS PVT. LTD."
               institutionImgUrl="https://example.com/r3sys-logo.jpg" // Add the correct image URL for R3SYS
               type="Internship"
               position="Java Developer Intern"
-              startDate="May 2024"
-              endDate="June 2024"
+              startDate="June 2023"
+              endDate="July 2023"
             />
-            {/* <div className="line"></div> */}
+            <div className="line"></div>
+            <ExperienceItem
+              company="Skill Bhavan"
+              companyImgUrl="https://pbs.twimg.com/profile_images/1512091770506838018/eMqiYCHZ_400x400.jpg"
+              position="Web Devloper Intern"
+              type="Internship"
+              startDate="Mar 2024"
+              endDate="April 2024"
+            />
           </div>
         </div>
       </Container>
@@ -90,26 +107,6 @@ const Experience = () => {
               startDate="June 2018"
               endDate="June 2019"
             />
-            {/* <div className="line"></div> */}
-            {/*
-            <div className="line"></div>
-            <ExperienceItem
-              company="Google Developer Student Club - LPU"
-              companyImgUrl="https://pbs.twimg.com/profile_images/1425284890799460354/phO6uvw5_400x400.jpg"
-              type="Volunteering"
-              position="Team Member"
-              startDate="Mar 2022"
-              endDate="Present"
-            />
-            <div className="line"></div>
-            <ExperienceItem
-              company="Aviyel"
-              companyImgUrl="https://pbs.twimg.com/profile_images/1512091770506838018/eMqiYCHZ_400x400.jpg"
-              position="Technical Writer"
-              type="Volunteering"
-              startDate="Mar 2022"
-              endDate="Oct 2022"
-            /> */}
           </div>
         </div>
       </Container>
