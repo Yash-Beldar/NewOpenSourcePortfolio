@@ -17,6 +17,9 @@
     border-radius: $border-radius-2;
     padding: 2rem;
     margin: 2%;
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center; /* Centers the image vertically */
     .border,
     .contrib-column {
       border: none !important;
@@ -24,6 +27,13 @@
         display: block;
         width: 100%;
       }
+    }
+
+    .calendar img {
+      width: 100%; /* Image fills the width of its container */
+      height: auto; /* Maintains aspect ratio */
+      max-width: 100%; /* Prevents image from going outside container */
+      display: block; /* Removes extra space below the image */
     }
 
     .contrib-number {
