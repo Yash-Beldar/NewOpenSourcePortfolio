@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Stack } from 'react-bootstrap';
 // import { EducationItem } from '../../../common/components/UIElements';
 import { Company } from '../../../assets/images';
+import { FaCheck } from 'react-icons/fa';
 import './Experience.scss';
 
 const ExperienceItem = (props) => {
@@ -26,6 +27,12 @@ const ExperienceItem = (props) => {
             />{' '}
             {props.type}
           </span>
+          {props.grade && ( // Conditional rendering for grade
+            <span className="grade">
+              <FaCheck className="check-icon" /> {props.grade}
+            </span>
+          )}
+
           <p>
             {props.startDate} - {props.endDate}
           </p>
@@ -45,7 +52,7 @@ const Experience = () => {
             {/* Experience Section */}
             <ExperienceItem
               company="Akatsuki Coding Club"
-              companyImgUrl="https://pbs.twimg.com/profile_images/1425284890799460354/phO6uvw5_400x400.jpg"
+              companyImgUrl="https://res.cloudinary.com/dc6lcsahh/image/upload/v1730724855/akatsuki_frf3he.png"
               type="Volunteering"
               position="Core Team Member"
               startDate="Oct 2023"
@@ -63,7 +70,7 @@ const Experience = () => {
             <div className="line"></div>
             <ExperienceItem
               company="Skill Bhavan"
-              companyImgUrl="https://pbs.twimg.com/profile_images/1512091770506838018/eMqiYCHZ_400x400.jpg"
+              companyImgUrl="https://res.cloudinary.com/dc6lcsahh/image/upload/v1730724854/skillbhavan_tnbhsd.png "
               position="Web Devloper Intern"
               type="Internship"
               startDate="Mar 2024"
