@@ -71,7 +71,7 @@ const CTA = () => {
             </Col>
             <Col className="text-center" sm>
               <a
-                href="https://pph.me/itsrakesh"
+                href="https://www.peopleperhour.com/freelancer/yashodip-beldar-zzmaqnaj"
                 target="_blank"
                 rel="noopener noreferrer"
               >
