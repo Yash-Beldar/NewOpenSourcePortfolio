@@ -82,7 +82,7 @@ const CTA = () => {
             </Col>
             <Col className="text-center" sm>
               <a
-                href="https://www.freelancer.com/u/RakeshPotnuru"
+                https://www.freelancer.com/u/yashodipbeldar"
                 target="_blank"
                 rel="noopener noreferrer"
               >
