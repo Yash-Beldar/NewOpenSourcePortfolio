@@ -51,12 +51,21 @@ const Experience = () => {
           <div className="experience__content">
             {/* Experience Section */}
             <ExperienceItem
+              company="CodeQuotient"
+              companyImgUrl="https://res.cloudinary.com/dc6lcsahh/image/upload/v1730724855/adata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEXifFDeZjHeaDTfbTzdZS7jgVnkjGzljGvkh2PlknThdUfifVTdYyvpnH755+H////99O7dYSjljmv22Mr++/r0z8DxxbX66uP9+PX23NPcXiDzy7rxw7PwvqrtsZfqp4/dYiPqoofrq5Tutp/pmnpatC/yAAAAvUlEQVR4Ac2SRQKDMBAAY/WUFdz1/2+sF+fMQHTiiRBSraGfbh2hdiqlefJLpZFDaQ7H4+mslRSny/FwPd9kL+3dAQA8E7segOOjT38pNQIGQXCzIUD0DBAnf2nYg5SMNgzgZRyOpL17kD+LVABEZeWMZb0hDT9lpd7DRo0YD/taUFy0PlcI4AGMpKIyjLwIO+qcKEJvLBWd67LmqzKHsqnHwz4x1trXoUlLZiSnZH5Q2jWptd64MrnfN7TBA56LErUXgYLGAAAAAElFTkSuQmCC.png"
+              type="Internship"
+              position="Mern Stack Developer"
+              startDate="Jan 2025"
+              endDate="June 2025"
+            />
+            <div className="line"></div>
+            <ExperienceItem
               company="Akatsuki Coding Club"
               companyImgUrl="https://res.cloudinary.com/dc6lcsahh/image/upload/v1730724855/akatsuki_frf3he.png"
               type="Volunteering"
               position="Core Team Member"
               startDate="Oct 2023"
-              endDate="Present"
+              endDate="Jan 2025"
             />
             <div className="line"></div>
             <ExperienceItem
