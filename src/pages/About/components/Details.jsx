@@ -69,35 +69,33 @@ const Details = () => {
                     <h2>
                       <AnimatedCounter end={5} duration={1} />
                     </h2>
-                    <p>Participated</p>
-                  </Col>
-                  <Col sm>
-                    <h2>
-                      <AnimatedCounter end={3} duration={1} />
-                    </h2>
-                    <p>Won</p>
-                  </Col>
-                </Row>
-              </div>
-              <h6 className="m-4">See my hackathon achievements on:</h6>
-              <div className="hackathon-links">
-                <Row>
-                  <Col className="text-center">
+                     <Col className="text-center">
                     <Link to="/profiles/devpost">
                       <CustomButton>
                         Devpost <FiExternalLink />
                       </CustomButton>
                     </Link>
                   </Col>
-                  <Col className="text-center">
+                  </Col>
+                  <Col sm>
+                    <Col className="text-center">
                     <Link to="/profiles/devfolio">
                       <CustomButton>
                         Devfolio <FiExternalLink />
                       </CustomButton>
                     </Link>
                   </Col>
+                   
+                  </Col>
                 </Row>
               </div>
+              {/* <h6 className="m-4">See my hackathon achievements on:</h6>
+              <div className="hackathon-links">
+                <Row>
+                 
+                  
+                </Row>
+              </div> */}
             </div>
           </div>
         </div>
