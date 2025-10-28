@@ -55,11 +55,7 @@ const Details = () => {
                 <h4>Web Development</h4>
               </Col>
             </Row>
-            <Row>
-              <Col sm>
-                <h4>Technical Writing</h4>
-              </Col>
-            </Row>
+        
           </div>
         </div>
         <div className="details__achievements mt-5">
